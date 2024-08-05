@@ -1,6 +1,7 @@
 # KFC Billing System
 
-![KFC Logo](kfc_logo.png)
+![KFC Logo]![image](https://github.com/user-attachments/assets/048cd416-604e-4c87-9576-943d386e3d12)
+
 
 ## Overview
 
