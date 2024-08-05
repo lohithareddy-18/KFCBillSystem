@@ -1,5 +1,7 @@
 # KFC Billing System
 
+![KFC Logo](kfc_logo.png)
+
 ## Overview
 
 This project simulates a simple KFC billing system in Java. The system includes the following features:
