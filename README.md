@@ -56,11 +56,11 @@ The main class that handles the menu display, order placement, and assignment of
 2. Open the project in your preferred Java IDE or text editor.
 3. Compile the code:
     ```sh
-    javac KFCBillingSystem.java
+    javac KFC.java
     ```
 4. Run the compiled code:
     ```sh
-    java KFCBillingSystem
+    java KFC
     ```
 5. Follow the prompts to place orders.
 
